@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|c:\\users\\yildi\\source\\repos\\ticketautomation\\ticketautomation\\entity\\ticketmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|solutionrelative:ticketautomation\\entity\\ticketmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|c:\\users\\yildi\\source\\repos\\ticketautomation\\ticketautomation\\entity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|solutionrelative:ticketautomation\\entity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|c:\\users\\yildi\\source\\repos\\ticketautomation\\ticketautomation\\entity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|solutionrelative:ticketautomation\\entity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|c:\\users\\yildi\\source\\repos\\ticketautomation\\ticketautomation\\entity\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|solutionrelative:ticketautomation\\entity\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|c:\\users\\yildi\\source\\repos\\ticketautomation\\ticketautomation\\entity\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|solutionrelative:ticketautomation\\entity\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|c:\\users\\yildi\\source\\repos\\ticketautomation\\ticketautomation\\entity\\ticketpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|solutionrelative:ticketautomation\\entity\\ticketpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|c:\\users\\yildi\\source\\repos\\ticketautomation\\ticketautomation\\entity\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|solutionrelative:ticketautomation\\entity\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|c:\\users\\yildi\\source\\repos\\ticketautomation\\ticketautomation\\entity\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|solutionrelative:ticketautomation\\entity\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|c:\\users\\yildi\\source\\repos\\ticketautomation\\ticketautomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|solutionrelative:ticketautomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|c:\\users\\yildi\\source\\repos\\ticketautomation\\ticketautomation\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|solutionrelative:ticketautomation\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|c:\\users\\yildi\\source\\repos\\ticketautomation\\ticketautomation\\entity\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE81402D-7F19-4C28-95C0-C23608562176}|TicketAutomation\\TicketAutomation.csproj|solutionrelative:ticketautomation\\entity\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Program.cs",
+              "RelativeDocumentMoniker": "TicketAutomation\\Program.cs",
+              "ToolTip": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Program.cs",
+              "RelativeToolTip": "TicketAutomation\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:12:53.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\SeedData.cs",
+              "RelativeDocumentMoniker": "TicketAutomation\\Entity\\SeedData.cs",
+              "ToolTip": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\SeedData.cs",
+              "RelativeToolTip": "TicketAutomation\\Entity\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:06:04.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationType.cs",
+              "DocumentMoniker": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\NotificationType.cs",
+              "RelativeDocumentMoniker": "TicketAutomation\\Entity\\NotificationType.cs",
+              "ToolTip": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\NotificationType.cs",
+              "RelativeToolTip": "TicketAutomation\\Entity\\NotificationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:36:10.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketPriority.cs",
+              "DocumentMoniker": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\TicketPriority.cs",
+              "RelativeDocumentMoniker": "TicketAutomation\\Entity\\TicketPriority.cs",
+              "ToolTip": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\TicketPriority.cs",
+              "RelativeToolTip": "TicketAutomation\\Entity\\TicketPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:34:54.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "TicketAutomation\\Entity\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\DatabaseContext.cs",
+              "RelativeToolTip": "TicketAutomation\\Entity\\DatabaseContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:24:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketStatus.cs",
+              "DocumentMoniker": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\TicketStatus.cs",
+              "RelativeDocumentMoniker": "TicketAutomation\\Entity\\TicketStatus.cs",
+              "ToolTip": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\TicketStatus.cs",
+              "RelativeToolTip": "TicketAutomation\\Entity\\TicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:33:36.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\UserRole.cs",
+              "RelativeDocumentMoniker": "TicketAutomation\\Entity\\UserRole.cs",
+              "ToolTip": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\UserRole.cs",
+              "RelativeToolTip": "TicketAutomation\\Entity\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:31:12.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\Notification.cs",
+              "RelativeDocumentMoniker": "TicketAutomation\\Entity\\Notification.cs",
+              "ToolTip": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\Notification.cs",
+              "RelativeToolTip": "TicketAutomation\\Entity\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:30:42.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketMessage.cs",
+              "DocumentMoniker": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\TicketMessage.cs",
+              "RelativeDocumentMoniker": "TicketAutomation\\Entity\\TicketMessage.cs",
+              "ToolTip": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\TicketMessage.cs",
+              "RelativeToolTip": "TicketAutomation\\Entity\\TicketMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:30:07.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketAutomation\\Entity\\Ticket.cs",
+              "ToolTip": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\Ticket.cs",
+              "RelativeToolTip": "TicketAutomation\\Entity\\Ticket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:29:28.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "TicketAutomation\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\yildi\\source\\repos\\TicketAutomation\\TicketAutomation\\Entity\\User.cs",
+              "RelativeToolTip": "TicketAutomation\\Entity\\User.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:27:06.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
